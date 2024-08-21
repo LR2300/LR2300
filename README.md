@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**LR2300/LR2300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oii, eu sou a Luiza Reis! 
 
-Here are some ideas to get you started:
+Gaúcha, 24 anos, Estudante em sistemas de informação, desenvolvedora back-end. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-f-reis/)
+
+
+
+
+## 🛠 Habilidades
+
+## Linguagens e frameworks
+Java, Javascript, Python, NodeJS, SpringBoot
+
+## IDE: 
+IntelliJ, PyCharm e Eclipse
+
+## Database:
+PostgreeSQL, MongoDB
+
